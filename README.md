@@ -1,2 +1,6 @@
 # PdfAnalyzer
-Simple PDF program that allows you to ask questions about your documents saving you time to learn more and read less
+<h2>Installation</h2>
+<tab>Install the libraries in requirements.txt with pip. You will also need to create a .env file and make a variable called OPENAI_API_KEY=<APIKEY></tab>
+<br>
+<h2>Running the Program</h2>
+<tab>In order to run the program you need to use 'streamlit run main.py' on your terminal</tab>
